@@ -1,34 +1,5 @@
 # Plotting, Noise and Noise Removal
 
-These laboratory excersises are solved on Google Colab and are save on GitHub repo that is connected to GitHub Classroom.
-
-## Tools You need to use to Submit Assignments
-
-In this document, you will solve tasks. This is a Jupyter Notebook which has the **.ipynb** extension, is an interactive web environment for data analysis, visualization, solution presentations, education, and more.
-
-**Google Colab** is a tool that allows you to run and share Jupyter Notebook files on Google's servers, including the use of Google's CPU, GPU, and TPU resources. Colab is like Google Docs for Jupyter Notebooks. **Google Colab does not automatically save your assignment to GitHub.**
-
-**You use GitHub to save and submit your assignments.** When you accept the assignment through GitHub Classroom, a repository is automatically created on your GitHub account with a copy of the task. This is where you will save your solutions. Saving your solutions submits the tasks for that lab.
-
-## How to Solve the Tasks?
-1. Accept the task via the Google Classroom link that you will receive. Google Classroom will create a repository on your account.
-2. Go to the newly created repository on your account and click on the .ipynb file, then click Open in Colab.
-3. You will solve the tasks in Google Colab.
-
-## How to Save (Submit) Tasks?
-
-1. In Google Colab, click on the Open settings gear icon in the top-right corner.
-2. Click on the GitHub tab and check the box for Access private repositories and organizations.
-3. A new window will open for you to grant access to GitHub. For ferit-osirv, click Grant.
-4. Save and exit the settings.
-5. Click on File > Save a copy in GitHub.
-6. Select the lab repository that includes your name.
-
-> *Note:* You only need to complete steps 1-4 the first time.
-
-7. Click on **File > Save a copy in GitHub**.
-8. Select created repository **koji uključuje vaše ime**.
-
 ## Introduction to Matplotlib
 
 Matplotlib is probably the most commonly used Python package for 2D graphics visualization. This package provides a fast way to visualize data from Python, as well as the ability to create high-quality images in many different formats.
